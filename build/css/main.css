@@ -431,7 +431,8 @@ nav li {
   margin: 10px; }
   .soc__icon i {
     margin-top: 20%; }
-  .soc__icon a {
+
+.footer__soc_icon a {
     color: #4d4d4d; }
 
 
