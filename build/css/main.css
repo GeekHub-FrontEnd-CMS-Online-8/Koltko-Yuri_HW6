@@ -430,7 +430,9 @@ nav li {
   background-color: #fff;
   margin: 10px; }
   .soc__icon i {
-    margin-top: 20%; }
+    margin-top: 20%;
+    color: #4d4d4d; }
+
 
 .scroll-top {
   position: fixed;
